@@ -1,0 +1,13 @@
+Based on these Tutorials
+
+Sprites inside your text boxes! How to use sprites in Unity Text Mesh Pro 
+https://www.youtube.com/watch?v=gJt6vSSlG3I
+
+
+Display button prompts with sprites in TextMesh Pro
+https://www.youtube.com/watch?v=JdGgrMWIknE
+
+
+Dynamic button prompt display using Unity's InputSystem | Tutorial
+https://www.youtube.com/watch?v=eVMy_Umjcys
+
